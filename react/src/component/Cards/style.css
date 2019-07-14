@@ -1,0 +1,21 @@
+.App-header{
+    background-color: #fff !important;
+}
+.texto-autor{
+    font-size: 18px;
+    font-weight: bolder;
+    color: #000;
+}
+.texto-frase{
+    font-size: 18px;
+    font-weight: 500;
+    color: rebeccapurple;
+    font-style: italic;
+    text-shadow: 0px 1px 3px #000;
+}
+
+.imagem-frase{
+    width: auto;
+    height: 250px;
+    
+}
